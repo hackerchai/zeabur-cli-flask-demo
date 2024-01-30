@@ -1,0 +1,5 @@
+# Virtual ENV
+myenv/
+
+# MacOS ignore
+.DS_Store
