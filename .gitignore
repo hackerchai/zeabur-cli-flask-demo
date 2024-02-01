@@ -1,5 +1,13 @@
 # Virtual ENV
 myenv/
+venv/
 
 # MacOS ignore
 .DS_Store
+
+# IDE ignore
+.idea
+.vscode
+
+# Python Cache
+__pycache__
